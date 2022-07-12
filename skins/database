@@ -1,0 +1,121 @@
+[ROGUE]
+0 = "rogue-icon"
+9427 = "mushroom-girl-rogue"
+9497 = "exalted-rogue"
+29521 = "cloaked-ascendant-rogue"
+29808 = "jack-the-ripper"
+
+[ARCHER]
+0 = "archer-icon"
+9223 = "kings-bowman-archer"
+9425 = "blorph-the-archer"
+9499 = "exalted-archer"
+19371 = "elven-archer"
+
+[WIZARD]
+0 = "wizard-icon"
+9501 = "exalted-wizard"
+19168 = "hermit-wizard"
+19372 = "ordinary-magician"
+32677 = "snow-queen"
+
+[PRIEST]
+0 = "priest-icon"
+5864 = "ice-king-priest"
+9225 = "carthusian-monk-priest"
+9503 = "exalted-priest"
+19156 = "shrine-priestess"
+19409 = "lyrical-priestess"
+
+[WARRIOR]
+0 = "warrior-icon"
+9505 = "exalted-warrior"
+10972 = "explorer"
+24308 = "chinese-princess-warrior"
+
+[KNIGHT]
+0 = "knight-icon"
+9481 = "sleepover-knight"
+9507 = "exalted-knight"
+19373 = "heroic-knight"
+24240 = "glacius-knight"
+24276 = "astronaut-knight"
+
+[PALADIN]
+0 = "paladin-icon"
+9509 = "exalted-paladin"
+19553 = "cleaner-maid-paladin"
+29800 = "demon-spawn"
+
+[ASSASSIN]
+0 = "assassin-icon"
+9511 = "exalted-assassin"
+19484 = "alice-assassin"
+24701 = "blue-frog-assassin"
+29814 = "vampire-hunter"
+30683 = "sweet-chocolatier-assassin"
+30767 = "veteran-assassin"
+
+[NECROMANCER]
+0 = "necromancer-icon"
+9513 = "exalted-necromancer"
+24597 = "necro-of-christmas-yet-to-come"
+24702 = "anubis-necromancer"
+
+[HUNTRESS]
+0 = "huntress-icon"
+8977 = "nexus-no-miko"
+9224 = "forest-tracker-huntress"
+9515 = "exalted-huntress"
+30679 = "swan-suit-huntress"
+
+[MYSTIC]
+0 = "mystic-icon"
+5866 = "yuki-onna-mystic"
+8968 = "lil-red"
+9517 = "exalted-mystic"
+10960 = "leprechaun-mystic"
+10968 = "lil-bo-peep"
+
+[TRICKSTER]
+0 = "trickster-icon"
+5859 = "chinese-dress-trickster"
+9483 = "traffic-cone-trickster"
+9519 = "exalted-trickster"
+19155 = "bunny-trickster"
+19539 = "soubrette-trickster"
+24226 = "jiangshi-trickster"
+24260 = "queen-of-misrule-trickster"
+
+[SORCERER]
+0 = "sorcerer-icon"
+9521 = "exalted-sorcerer"
+10235 = "mini-court-magician-sorcerer"
+
+[NINJA]
+0 = "ninja-icon"
+9523 = "exalted-ninja"
+10959 = "wind-flower-ninja"
+29809 = "death"
+
+[SAMURAI]
+0 = "samurai-icon"
+9525 = "exalted-samurai"
+19659 = "oryxmas-samurai"
+
+[BARD]
+0 = "bard-icon"
+9375 = "twintailed-vocalist-bard"
+9379 = "wandering-spellcaster-bard"
+9527 = "exalted-bard"
+30813 = "antinomy-bard"
+
+[SUMMONER]
+0 = "summoner-icon"
+30721 = "exalted-summoner"
+30723 = "mauve-magus-summoner"
+30739 = "menagerie-master-summoner"
+
+[KENSEI]
+0 = "kensei-icon"
+31238 = "exalted-kensei"
