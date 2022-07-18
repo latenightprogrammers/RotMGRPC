@@ -52,6 +52,7 @@
 [ASSASSIN]
 0 = "assassin-icon"
 9511 = "exalted-assassin"
+10177 = "cronus-entity-assassin"
 19484 = "alice-assassin"
 24601 = "snowball-kid-assassin"
 24701 = "blue-frog-assassin"
@@ -65,12 +66,14 @@
 19550 = "hollow-prince-necromancer"
 24597 = "necro-of-christmas-yet-to-come"
 24702 = "anubis-necromancer"
+32766 = "vampire-lord"
 
 [HUNTRESS]
 0 = "huntress-icon"
 8977 = "nexus-no-miko"
 9224 = "forest-tracker-huntress"
 9515 = "exalted-huntress"
+19407 = "mini-queen-bee-huntress"
 30679 = "swan-suit-huntress"
 
 [MYSTIC]
@@ -81,6 +84,7 @@
 10960 = "leprechaun-mystic"
 10968 = "lil-bo-peep"
 19615 = "lunar-mystic"
+24693 = "aphrodite-mystic"
 
 [TRICKSTER]
 0 = "trickster-icon"
@@ -102,6 +106,7 @@
 0 = "ninja-icon"
 9523 = "exalted-ninja"
 10959 = "wind-flower-ninja"
+19394 = "slashing-beauty"
 29809 = "death"
 
 [SAMURAI]
