@@ -1,5 +1,6 @@
 [ROGUE]
 0 = "rogue-icon"
+913 = "brigand"
 9427 = "mushroom-girl-rogue"
 9497 = "exalted-rogue"
 29521 = "cloaked-ascendant-rogue"
@@ -7,6 +8,7 @@
 
 [ARCHER]
 0 = "archer-icon"
+835 = "robin-hood"
 9223 = "kings-bowman-archer"
 9425 = "blorph-the-archer"
 9499 = "exalted-archer"
@@ -51,6 +53,7 @@
 0 = "assassin-icon"
 9511 = "exalted-assassin"
 19484 = "alice-assassin"
+24601 = "snowball-kid-assassin"
 24701 = "blue-frog-assassin"
 29814 = "vampire-hunter"
 30683 = "sweet-chocolatier-assassin"
@@ -59,6 +62,7 @@
 [NECROMANCER]
 0 = "necromancer-icon"
 9513 = "exalted-necromancer"
+19550 = "hollow-prince-necromancer"
 24597 = "necro-of-christmas-yet-to-come"
 24702 = "anubis-necromancer"
 
@@ -76,6 +80,7 @@
 9517 = "exalted-mystic"
 10960 = "leprechaun-mystic"
 10968 = "lil-bo-peep"
+19615 = "lunar-mystic"
 
 [TRICKSTER]
 0 = "trickster-icon"
@@ -91,6 +96,7 @@
 0 = "sorcerer-icon"
 9521 = "exalted-sorcerer"
 10235 = "mini-court-magician-sorcerer"
+19548 = "mini-malus-sorcerer"
 
 [NINJA]
 0 = "ninja-icon"
@@ -102,6 +108,7 @@
 0 = "samurai-icon"
 9525 = "exalted-samurai"
 19659 = "oryxmas-samurai"
+30819 = "antinomy-samurai"
 
 [BARD]
 0 = "bard-icon"
