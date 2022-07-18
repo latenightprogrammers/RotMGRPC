@@ -13,6 +13,7 @@
 9425 = "blorph-the-archer"
 9499 = "exalted-archer"
 19371 = "elven-archer"
+19403 = "sunflower-archer"
 
 [WIZARD]
 0 = "wizard-icon"
@@ -42,12 +43,14 @@
 19373 = "heroic-knight"
 24240 = "glacius-knight"
 24276 = "astronaut-knight"
+30875 = "bear-suit-knight"
 
 [PALADIN]
 0 = "paladin-icon"
 9509 = "exalted-paladin"
 19553 = "cleaner-maid-paladin"
 29800 = "demon-spawn"
+30859 = "mini-royal-gladiator-paladin"
 
 [ASSASSIN]
 0 = "assassin-icon"
@@ -63,6 +66,7 @@
 [NECROMANCER]
 0 = "necromancer-icon"
 9513 = "exalted-necromancer"
+10185 = "vengeful-yokai-necromancer"
 19550 = "hollow-prince-necromancer"
 24597 = "necro-of-christmas-yet-to-come"
 24702 = "anubis-necromancer"
@@ -83,6 +87,7 @@
 9517 = "exalted-mystic"
 10960 = "leprechaun-mystic"
 10968 = "lil-bo-peep"
+19388 = "hula-mystic"
 19615 = "lunar-mystic"
 24693 = "aphrodite-mystic"
 
@@ -131,3 +136,4 @@
 [KENSEI]
 0 = "kensei-icon"
 31238 = "exalted-kensei"
+31288 = "mini-tidal-wave-kensei"
