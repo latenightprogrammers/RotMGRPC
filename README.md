@@ -24,10 +24,13 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Mushroom Girl Rogue
     - Jack the Ripper
     - Cloaked Ascendant Rogue
+    - Brigand
 #### Archer
     - Blorph the Archer
     - Elven Archer
     - Kings Bowman Archer
+    - Robin Hood
+    - Sunflower Archer
 #### Wizard
     - Snow Queen
     - Hermit Wizard
@@ -45,26 +48,37 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Heroic Knight
     - Astronaut Knight
     - Glacius Knight
+    - Bear Suit Knight
 #### Paladin
     - Cleaner Maid Paladin
     - Demon Spawn
+    - Mini Royal Gladiator Paladin
 #### Assassin
     - Blue Frog Assassin
     - Vampire Hunter
     - Alice Assassin
     - Sweet Chocolatier Assassin
     - Veteran Assassin
+    - Snowball Kid Assassin
+    - Cronus Entity Assassin
 #### Necromancer
     - Anubis Necromancer
     - Necro of Christmas Yet-to-Come
+    - Hollow Prince Necromancer
+    - Vampire Lord
+    - Vengeful Yokai Necromancer
 #### Huntress
     - Nexus No Miko
     - Forest Tracker Huntress
+    - Mini Queen Bee Huntress
 #### Mystic
     - Leprechaun Mystic
     - Yuki Onna Mystic
     - Lil' Bo-Peep
     - Lil Red
+    - Lunar Mystic
+    - Aphrodite Mystic
+    - Hula Mystic
 #### Trickster
     - Queen of Misrule Trickster
     - Chinese Dress Trickster
@@ -73,11 +87,14 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Jiangshi Trickster
 #### Sorcerer
     - Mini Court Magician Sorcerer
+    - Mini Malus Sorcerer
 #### Ninja
     - Wind Flower Ninja
     - Death
+    - Slashing Beauty
 #### Samurai
     - Oryxmas Samurai
+    - Antinomy Samurai
 #### Bard
     - Twintailed Vocalist Bard
     - Antinomy Bard
@@ -86,7 +103,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Menagerie Master Summoner
     - Mauve Magus Summoner
 #### Kensei
-    -
+    - Mini Tidal Wave Kensei
     
 </details>
 
@@ -99,5 +116,9 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Zodiac Tiger Kensei
 #### Sorcerer
     - Fire Elemental Sorcerer
+#### Huntress
+    - Drill Operator Huntress
+#### Summoner
+    - Freyja Summoner
     
 </details>
