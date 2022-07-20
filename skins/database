@@ -38,6 +38,7 @@
 
 [KNIGHT]
 0 = "knight-icon"
+5860 = "penguin-knight"
 9481 = "sleepover-knight"
 9507 = "exalted-knight"
 19373 = "heroic-knight"
