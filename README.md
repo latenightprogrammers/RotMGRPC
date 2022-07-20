@@ -6,10 +6,10 @@ Made with <3 by Neruncio & neopkr.
 [Submit your profile for us to grab your realmeye skins here!](https://forms.office.com/r/HJauAvQ5Mk)
 
 # Screenshots
-![Knight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neokeeeKnightENG.png)
-![MysticESP](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neokeeeMystic.png)
-![PenguinKnight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neruKnight.png)
-![Default Bard Skin](https://media.discordapp.net/attachments/786642907326316606/999397911689445447/unknown.png)
+![Knight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrKnight.jpg)
+![MysticESP](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrMystic.jpg)
+![PenguinKnight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neruncioKnight.jpg)
+![Default Bard Skin](https://media.discordapp.net/attachments/786642907326316606/999397911689445447/neopkrBard.jpg)
 <details>
 <summary>How it works</summary>
 <br>
