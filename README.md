@@ -6,9 +6,9 @@ Made with <3 by Neruncio & neopkr.
 [Submit your profile for us to grab your realmeye skins here!](https://forms.office.com/r/HJauAvQ5Mk)
 
 # Screenshots
-![Knight](https://media.discordapp.net/attachments/786642907326316606/999397069229932564/unknown.png)
-![Mystic](https://media.discordapp.net/attachments/786642907326316606/999397442502017044/unknown.png)
-![PenguinKnight](https://media.discordapp.net/attachments/786642907326316606/999398070200570007/unknown.png)
+![Knight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neokeeeKnightENG.png)
+![MysticESP](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neokeeeMystic.png)
+![PenguinKnight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neruKnight.png)
 ![Default Bard Skin](https://media.discordapp.net/attachments/786642907326316606/999397911689445447/unknown.png)
 <details>
 <summary>How it works</summary>
