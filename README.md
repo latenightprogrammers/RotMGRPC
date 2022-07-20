@@ -49,6 +49,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Astronaut Knight
     - Glacius Knight
     - Bear Suit Knight
+    - Penguin Knight
 #### Paladin
     - Cleaner Maid Paladin
     - Demon Spawn
