@@ -9,7 +9,7 @@ Made with <3 by Neruncio & neopkr.
 ![Knight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrKnight.jpg)
 ![MysticESP](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrMystic.jpg)
 ![PenguinKnight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neruncioKnight.jpg)
-![Default Bard Skin](https://media.discordapp.net/attachments/786642907326316606/999397911689445447/neopkrBard.jpg)
+![Default Bard Skin](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrBard.jpg)
 <details>
 <summary>How it works</summary>
 <br>
