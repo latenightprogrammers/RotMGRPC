@@ -9,7 +9,7 @@ Made with <3 by Neruncio & neopkr.
 ![Knight](https://media.discordapp.net/attachments/786642907326316606/999397069229932564/unknown.png)
 ![Mystic](https://media.discordapp.net/attachments/786642907326316606/999397442502017044/unknown.png)
 ![PenguinKnight](https://media.discordapp.net/attachments/786642907326316606/999398070200570007/unknown.png)
-
+![Default Bard Skin](https://media.discordapp.net/attachments/786642907326316606/999397911689445447/unknown.png)
 <details>
 <summary>How it works</summary>
 <br>
