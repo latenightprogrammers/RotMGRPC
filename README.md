@@ -40,6 +40,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Snow Queen
     - Hermit Wizard
     - Ordinary Magician
+    - Little Evil Doer Wizard
 #### Priest
     - Ice King Priest
     - Lyrical Priestess
@@ -48,6 +49,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
 #### Warrior
     - Chinese Princess Warrior
     - Explorer
+    - Unicorn Warrior
 #### Knight
     - Sleepover Knight
     - Heroic Knight
@@ -77,6 +79,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Nexus No Miko
     - Forest Tracker Huntress
     - Mini Queen Bee Huntress
+    - Mini Thessal
 #### Mystic
     - Leprechaun Mystic
     - Yuki Onna Mystic
@@ -91,13 +94,16 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Bunny Trickster
     - Traffic Cone Trickster
     - Jiangshi Trickster
+    - Village Peasant Trickster
 #### Sorcerer
     - Mini Court Magician Sorcerer
     - Mini Malus Sorcerer
+    - Blizzard Sorcerer
 #### Ninja
     - Wind Flower Ninja
     - Death
     - Slashing Beauty
+    - Baby Djinja
 #### Samurai
     - Oryxmas Samurai
     - Antinomy Samurai
