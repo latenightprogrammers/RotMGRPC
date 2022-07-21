@@ -18,6 +18,7 @@
 [WIZARD]
 0 = "wizard-icon"
 9501 = "exalted-wizard"
+10159 = "little-evil-doer-wizard"
 19168 = "hermit-wizard"
 19372 = "ordinary-magician"
 32677 = "snow-queen"
@@ -35,6 +36,7 @@
 9505 = "exalted-warrior"
 10972 = "explorer"
 24308 = "chinese-princess-warrior"
+30673 = "unicorn-warrior"
 
 [KNIGHT]
 0 = "knight-icon"
@@ -79,6 +81,7 @@
 9224 = "forest-tracker-huntress"
 9515 = "exalted-huntress"
 19407 = "mini-queen-bee-huntress"
+29848 = "mini-thessal"
 30679 = "swan-suit-huntress"
 
 [MYSTIC]
@@ -95,6 +98,7 @@
 [TRICKSTER]
 0 = "trickster-icon"
 5859 = "chinese-dress-trickster"
+9219 = "village-peasant-trickster"
 9483 = "traffic-cone-trickster"
 9519 = "exalted-trickster"
 19155 = "bunny-trickster"
@@ -104,6 +108,7 @@
 
 [SORCERER]
 0 = "sorcerer-icon"
+5863 = "blizzard-sorcerer"
 9521 = "exalted-sorcerer"
 10235 = "mini-court-magician-sorcerer"
 19548 = "mini-malus-sorcerer"
@@ -113,6 +118,7 @@
 9523 = "exalted-ninja"
 10959 = "wind-flower-ninja"
 19394 = "slashing-beauty"
+29840 = "baby-djinja"
 29809 = "death"
 
 [SAMURAI]
