@@ -30,6 +30,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Jack the Ripper
     - Cloaked Ascendant Rogue
     - Brigand
+    - Turkey Rogue
 #### Archer
     - Blorph the Archer
     - Elven Archer
@@ -41,15 +42,18 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Hermit Wizard
     - Ordinary Magician
     - Little Evil Doer Wizard
+    - Duality Wizard
 #### Priest
     - Ice King Priest
     - Lyrical Priestess
     - Carthusian Monk Priest
     - Shrine Priestess
+    - Antinomy Priest
 #### Warrior
     - Chinese Princess Warrior
     - Explorer
     - Unicorn Warrior
+    - Lodestar Warrior
 #### Knight
     - Sleepover Knight
     - Heroic Knight
@@ -61,6 +65,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Cleaner Maid Paladin
     - Demon Spawn
     - Mini Royal Gladiator Paladin
+    - Holy Avenger
 #### Assassin
     - Blue Frog Assassin
     - Vampire Hunter
@@ -80,6 +85,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Forest Tracker Huntress
     - Mini Queen Bee Huntress
     - Mini Thessal
+    - Night Huntress
 #### Mystic
     - Leprechaun Mystic
     - Yuki Onna Mystic
@@ -88,6 +94,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Lunar Mystic
     - Aphrodite Mystic
     - Hula Mystic
+    - Stone Mystic
 #### Trickster
     - Queen of Misrule Trickster
     - Chinese Dress Trickster
@@ -104,9 +111,11 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Death
     - Slashing Beauty
     - Baby Djinja
+    - Kabuki Ninja
 #### Samurai
     - Oryxmas Samurai
     - Antinomy Samurai
+    - Fire Flower Samurai
 #### Bard
     - Twintailed Vocalist Bard
     - Antinomy Bard
@@ -132,5 +141,7 @@ This Rich Presence does not get involved with the game's code, instead, it takes
     - Drill Operator Huntress
 #### Summoner
     - Freyja Summoner
+#### Bard
+    - Mini Storm Caller Bard
     
 </details>
