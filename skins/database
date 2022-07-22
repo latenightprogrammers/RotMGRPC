@@ -3,6 +3,7 @@
 913 = "brigand"
 9427 = "mushroom-girl-rogue"
 9497 = "exalted-rogue"
+19567 = "turkey-rogue"
 29521 = "cloaked-ascendant-rogue"
 29808 = "jack-the-ripper"
 
@@ -21,6 +22,7 @@
 10159 = "little-evil-doer-wizard"
 19168 = "hermit-wizard"
 19372 = "ordinary-magician"
+30849 = "duality-wizard"
 32677 = "snow-queen"
 
 [PRIEST]
@@ -30,11 +32,13 @@
 9503 = "exalted-priest"
 19156 = "shrine-priestess"
 19409 = "lyrical-priestess"
+30825 = "antinomy-priest"
 
 [WARRIOR]
 0 = "warrior-icon"
 9505 = "exalted-warrior"
 10972 = "explorer"
+19483 = "lodestar-warrior"
 24308 = "chinese-princess-warrior"
 30673 = "unicorn-warrior"
 
@@ -50,6 +54,7 @@
 
 [PALADIN]
 0 = "paladin-icon"
+885 = "holy-avenger"
 9509 = "exalted-paladin"
 19553 = "cleaner-maid-paladin"
 29800 = "demon-spawn"
@@ -79,6 +84,7 @@
 0 = "huntress-icon"
 8977 = "nexus-no-miko"
 9224 = "forest-tracker-huntress"
+9423 = "night-huntress"
 9515 = "exalted-huntress"
 19407 = "mini-queen-bee-huntress"
 29848 = "mini-thessal"
@@ -92,6 +98,7 @@
 10960 = "leprechaun-mystic"
 10968 = "lil-bo-peep"
 19388 = "hula-mystic"
+19429 = "stone-mystic"
 19615 = "lunar-mystic"
 24693 = "aphrodite-mystic"
 
@@ -118,11 +125,13 @@
 9523 = "exalted-ninja"
 10959 = "wind-flower-ninja"
 19394 = "slashing-beauty"
+19551 = "kabuki-ninja"
 29840 = "baby-djinja"
 29809 = "death"
 
 [SAMURAI]
 0 = "samurai-icon"
+9399 = "fire-flower-samurai"
 9525 = "exalted-samurai"
 19659 = "oryxmas-samurai"
 30819 = "antinomy-samurai"
