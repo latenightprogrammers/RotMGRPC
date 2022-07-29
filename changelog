@@ -1,28 +1,11 @@
 
-[Changelog Version: 3.0.0]
+[Changelog Version: 3.0.1]
 
-ADDED TO THE NON-SUPPORTED SKINS:
-  - Mini Storm Caller Bard
-
-Added the following skins:
-  - Huntress:
-    - Night Huntress
-  - Warrior:
-    - Lodestar Warrior
-  - Wizard:
-    - Duality Wizard
-  - Ninja:
-    - Kabuki Ninja
-  - Mystic:
-    - Stone Mystic
-  - Priest:
-    - Antinomy Priest
-  - Samurai:
-    - Fire Flower Samurai
-  - Rogue:
-    - Turkey Rogue
-  - Paladin:
-    - Holy Avenger
+DOWNLOAD NEWEST VERSION HERE: https://github.com/latenightprogrammers/RotMGRPC/releases/tag/v3.0.1
     
+What's New?
+  - Patched minor issue which didn't let some users to run the program properly.
+  
+Note: We recommend to install the new patch, although the previous release is still compatible and will receive skins updates.
 
-Thanks for sending in your profiles!
+Thanks for using our program!
