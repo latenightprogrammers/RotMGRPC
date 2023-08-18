@@ -10,12 +10,19 @@ Made with <3 by Neruncio & neopkr.
 ![MysticESP](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrMystic.jpg)
 ![PenguinKnight](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neruncioKnight.jpg)
 ![Default Bard Skin](https://www.latenightprogrammers.com/src/assets/RotMGRPC/neopkrBard.jpg)
+
+# Errors
+
+### Error 21: Cannot found data/database
+...
+
 <details>
 <summary>How it works</summary>
 <br>
 
-This Rich Presence does not get involved with the game's code, instead, it takes info directly from RealmEye. The page is scrapped, which lets us take (non malicious) information we need, such as: Current character, base fame & level.
+-This Rich Presence does not get involved with the game's code, instead, it takes info directly from RealmEye. The page is scrapped, which lets us take (non malicious) information we need, such as: Current character, base fame & level.
 
+- Due to RealmEye is not longer supported with RotMG API the content retrieve for discord status maybe took a while to update.
 </details>
 
 <details>
