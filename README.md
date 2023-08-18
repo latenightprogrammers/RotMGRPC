@@ -15,6 +15,8 @@ Made with <3 by Neruncio & neopkr.
 
 ### Error 21: Cannot found data/database
 ...
+### Error 12: Updater not found
+...
 
 <details>
 <summary>How it works</summary>
