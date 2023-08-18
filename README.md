@@ -14,9 +14,16 @@ Made with <3 by Neruncio & neopkr.
 # Errors
 
 ### Error 21: Cannot found data/database
-...
+- This error is not common and its fatal for the program. As the error said, data folder o database file are missing in the main folder.
+- What is 'database' file?: Database file is an CFG File that includes all the skins ID for the discord presence, without this file, the RPC can not set the current skin image that are using the character.
+- Solution:
+  1. If data folder don't exist: Create a folder inside of the RPC folder called 'data'
+  2. Download: database, skin_version, rpc_version, updater_version and RPCUpdater.
+  3. Paste the following files: database, skin_version, rpc_version, updater_version inside of the data folder that we create at step 1.
+  4. Paste RPCUpdater on the RPC folder.
+- Why i need to download RPCUpdater?: Assuming there is not data folder when this errors ocurred, there is 4 important files for program functionallity that are NOT in the folder. In specially the file ```updater_version``` is only created building the RPC, this file is not updateable. So if this file need to be changed, RPCUpdater need to be changed too.
+
 ### Error 12: Updater not found
-...
 
 <details>
 <summary>How it works</summary>
