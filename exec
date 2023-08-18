@@ -1,3 +1,0 @@
-EXEC = true
-EXEC = MessageLog("Test");
-EXEC_FAIL = MessageError("ErrorTest");
