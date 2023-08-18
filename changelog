@@ -1,11 +1,26 @@
+[Changelog Version: 4.0.0]
 
-[Changelog Version: 3.0.1]
+After long time, we can release a new functional update. (If you have old program please re download the program)
+If you need more time to read the changelog (fully recommended) see: https://github.com/latenightprogrammers/RotMGRPC/blob/main/changelog
 
-DOWNLOAD NEWEST VERSION HERE: https://github.com/latenightprogrammers/RotMGRPC/releases/tag/v3.0.1
-    
-What's New?
-  - Patched minor issue which didn't let some users to run the program properly.
-  
-Note: We recommend to install the new patch, although the previous release is still compatible and will receive skins updates.
+[Update v4.0.0 - 20230818]
 
-Thanks for using our program!
+- Fixes minor bugs and reconnect RPC to RealmEye for the presence. Now players with 1 digit star can use the RPC (issue #202212)
+- Handle errors for prevent crashing and create new section on RotMG RPC Github page for errors.
+- Changed Program name to 'RotMGRPC'
+- Changed 'exe_version' to 'rpc_version'. <-- Updater can not update your program to this version for this name changed re download the program. 
+
+[How to know my program version?]
+
+- On your RotMG RPC folder, go inside data folder, there is a file called "exe_version" open it with notepad or your favorite text editor.
+- If you have version: "20220710", re download the latest release on: https://github.com/latenightprogrammers/RotMGRPC/releases (v4.0.0)
+- Latest version: 20230818
+
+!-----!    UPDATES    !-----!
+Check the new updates (v4.0.0) on https://github.com/latenightprogrammers/RotMGRPC/releases
+
+!-----!   REPOSITORY  !-----!
+We have changed repositories, we're available now on https://github.com/latenightprogrammers/RotMGRPC
+
+!-----!    ISSUES     !-----!
+If you are experimenting issues or crashes please submit a issue on https://github.com/latenightprogrammers/RotMGRPC/issues
