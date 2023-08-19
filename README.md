@@ -165,3 +165,11 @@ _We need screenshots using the RPC! Send message on RotMG to: neopkr or Neruncio
 - Why i need to download RPCUpdater?: Assuming there is not data folder when this errors ocurred, there is 4 important files for program functionallity that are NOT in the folder. In specially the file ```updater_version``` is only created building the RPC, this file is not updateable. So if this file need to be changed, RPCUpdater need to be changed too.
 
 ### Error 12: Updater not found
+- **IMPORTANT: If you have old version of the RPC (v3.0.0, v3.0.1) or 2022 versions, please redownload the RPC, thats versions are no longer support and contains several bugs.**
+- This error is uncommon because in each build comes with the Updater. Updater not found: RPCUpdater is missing on the RPC folder.
+- Solution:
+ 1. Check your current ```updater_version``` (located in data/ folder) and compare it with the online version: [updater_version](https://github.com/latenightprogrammers/RotMGRPC/blob/main/updater/updater_version). If versions are compatibles you can proceed with this solution.
+ 1.1. If ```updater_version``` are not the same, re download the RPC to the latest version [here](https://github.com/latenightprogrammers/RotMGRPC/releases).
+ 2. Download: [RPCUpdater](#)
+ 3. Paste RPCUpdater in your RPC folder
+- And thats it, if the message persist, re download the RPC.
