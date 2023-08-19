@@ -1,5 +1,5 @@
 # RotMG-RPC
-UNOFFICIAL Discord Rich Presence for Realm of the Mad God Exalt.
+UNOFFICIAL Discord Rich Presence for Realm of the Mad God Exalt. (Only available for: Windows)
 
 Made with <3 by Neruncio & neopkr.
 
